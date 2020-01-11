@@ -18,7 +18,7 @@ class Resume extends Component {
                     <img class="picture" alt="Jun Wang" src={require('./junwang.jpg')}></img>
                     <div class="middle">
                         <h1 class="name">Jun Wang</h1>
-                        <h2 class="label">Sr. Manager</h2>
+                        <h2 class="label">Sr. Application Development Manager</h2>
                     </div>
                     <span class="location">
                         <span class="city"> Eden Prairie,</span>
