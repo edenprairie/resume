@@ -6,6 +6,8 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v1
+      with:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN}}
     
     - name: Run command lines
       run: |
