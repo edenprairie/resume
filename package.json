@@ -2,11 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
   "homepage": "https://edenprairie.github.io/resume/",
-=======
-  "homepage" : "https://edenprairie.github.io/resume",
->>>>>>> 2b353190ed952a4389714dd6465eb4d70ebe9a05
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
