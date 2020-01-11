@@ -12,6 +12,7 @@ jobs:
     - name: Run command lines
       run: |
           npm install
+          git config user.email "junwang2003@gmail.com"
           npm run deploy
       
     # - name: Build and Deploy
