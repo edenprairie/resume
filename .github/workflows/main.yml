@@ -12,11 +12,14 @@ jobs:
     - name: Run command lines
       run: |
           npm install
-          git config user.email "junwang2003@gmail.com"
-          git config user.name "edenprairie"
-          git config user.password ${{ secrets.ACCESS_TOKEN}}
-          npm run deploy
-      
+          npm run build
+          
+    - name: Publish generated content to GitHub Pages
+      uses: tsunematsu21/actions-publish-gh-pages@v1.0.0
+      with:
+        dir: dist
+        branch: gh-pages
+        token: ${{ secrets.ACCESS_TOKEN }}
     # - name: Build and Deploy
     #  uses: JamesIves/github-pages-deploy-action@releases/v3
     #  with:
