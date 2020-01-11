@@ -205,7 +205,8 @@ class Resume extends Component {
                             </div>
                             <ul class="keywords">
                                 <li>xunit</li>
-                                <li>log4net</li>
+                                <li>jest</li>
+                                <li>karmar</li>
                                 <li>Moq</li>
                                 <li>Cypress.io</li>
                                 <li>Cucumber</li>
