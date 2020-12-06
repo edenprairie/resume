@@ -66,11 +66,7 @@ class Resume extends Component {
                 <section class="section main-summary">
                     <section>
                         <div>
-                            <p>My primary strength is expertise in software design and development in enterprise application
-                                integration.
-                                My focus is to specialize in Business Process Modeling and integration architecture with
-                                intensive hands on
-                        development experience.</p>
+                            <p>I am an innovator with creative ideas and strong problem solving skills, a passionate technologist with hands-on software engineering skills in modern technology stack, a servant leader who constantly drives changes and aims to add business value, and a trusted mentor who prioritizes developing our people and cultivating engineering culture.</p>
                         </div>
                     </section>
                 </section>
@@ -81,35 +77,6 @@ class Resume extends Component {
                     <section id="skills">
                         <div class="item">
                             <h3 class="name">
-                                .NET Core / Framework
-                    </h3>
-                            <div class="level master">
-                                <em>Master</em>
-                                <div class="bar"></div>
-                            </div>
-                            <ul class="keywords">
-                                <li>C#</li>
-                                <li>Blazor</li>
-                                <li>Visual Basic.net</li>
-                                <li>ASP.NET</li>
-                            </ul>
-                        </div>
-                        <div class="item">
-                            <h3 class="name">
-                                IT Project Management
-                    </h3>
-                            <div class="level master">
-                                <em>Master</em>
-                                <div class="bar"></div>
-                            </div>
-                            <ul class="keywords">
-                                <li>Agile</li>
-                                <li>Scrum</li>
-                                <li>Resource Management</li>
-                            </ul>
-                        </div>
-                        <div class="item">
-                            <h3 class="name">
                                 Micro Service Web API
                     </h3>
                             <div class="level advanced">
@@ -118,8 +85,9 @@ class Resume extends Component {
                             </div>
                             <ul class="keywords">
                                 <li>REST</li>
+                                <li>GRPC</li>
+                                <li>GraphQL</li>
                                 <li>JWT</li>
-                                <li>WCF</li>
                                 <li>SOAP</li>
                             </ul>
                         </div>
@@ -150,23 +118,25 @@ class Resume extends Component {
                                 <li>MongoDB</li>
                                 <li>PostgreSQL</li>
                                 <li>MySQL</li>
+                                <li>Kafka</li>
                             </ul>
                         </div>
                         <div class="item">
                             <h3 class="name">
-                                DevOps
+                                DevSecOps
                     </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
                             </div>
                             <ul class="keywords">
+                                <li>Github Action</li>
                                 <li>Azure DevOps</li>
                                 <li>Docker</li>
                                 <li>Jenkins</li>
                                 <li>CI/CD Pipeline</li>
-                                <li>Octopus</li>
-                                <li>Bamboo</li>
+                                <li>Vulnerability Management</li>
+                                <li>Firewalls</li>
                             </ul>
                         </div>
                         <div class="item">
@@ -178,52 +148,44 @@ class Resume extends Component {
                                 <div class="bar"></div>
                             </div>
                             <ul class="keywords">
-                                <li>IIS</li>
-                                <li>Apache</li>
+                                <li>.NET Core</li>
+                                <li>Java</li>
+                                <li>Spring boot</li>
+                                <li>http2</li>
+                                <li>Splunk</li>
+                                <li>Dynatrace</li>
                             </ul>
                         </div>
                         <div class="item">
                             <h3 class="name">
-                                Desktop Applications
+                                Desgin Pattern
                     </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
                             </div>
                             <ul class="keywords">
-                                <li>Forms</li>
-                                <li>Services</li>
+                                <li>creational</li>
+                                <li>structural</li>
+                                <li>behavioral</li>
+                                <li>The Twelve-Factor App</li>
                             </ul>
                         </div>
                         <div class="item">
                             <h3 class="name">
-                                Unit Testing
+                                Test Automation
                     </h3>
-                            <div class="level intermediate">
-                                <em>Intermediate</em>
+                            <div class="level advanced">
+                                <em>Advanced</em>
                                 <div class="bar"></div>
                             </div>
                             <ul class="keywords">
-                                <li>xunit</li>
+                                <li>Cypress.io</li>
+                                <li>xunit/Junit</li>
                                 <li>jest</li>
                                 <li>karmar</li>
-                                <li>Moq</li>
-                                <li>Cypress.io</li>
                                 <li>Cucumber</li>
-                            </ul>
-                        </div>
-                        <div class="item">
-                            <h3 class="name">
-                                Interoperability
-                    </h3>
-                            <div class="level intermediate">
-                                <em>Intermediate</em>
-                                <div class="bar"></div>
-                            </div>
-                            <ul class="keywords">
-                                <li>VB6 and .NET</li>
-                                <li>.NET and PlanetPress</li>
-                                <li>.NET and Java</li>
+                                <li>Jmeter</li>
                             </ul>
                         </div>
                         <div class="item">
@@ -236,8 +198,8 @@ class Resume extends Component {
                             </div>
                             <ul class="keywords">
                                 <li>JQuery</li>
-                                <li>Angular</li>
                                 <li>React</li>
+                                <li>Angular</li>
                                 <li>SignalR</li>
                             </ul>
                         </div>
@@ -245,29 +207,29 @@ class Resume extends Component {
                             <h3 class="name">
                                 Mobile Development
                     </h3>
-                            <div class="level beginner">
-                                <em>Beginner</em>
+                            <div class="level intermediate">
+                                <em>Intermediate</em>
                                 <div class="bar"></div>
                             </div>
                             <ul class="keywords">
                                 <li>Flutter</li>
-                                <li>Xamarin</li>
+                                <li>Widget UI</li>
                                 <li>React Native</li>
-                                <li>IONIC</li>
+                                <li>Blazor</li>
                             </ul>
                         </div>
                     </section>
                 </section>
                 <section class="section">
                     <header>
-                        <h2 class="section-title">Work Experience <span class="item-count">(7)</span></h2>
+                        <h2 class="section-title">Work Experience <span class="item-count"></span></h2>
                     </header>
                     <section id="work">
                         <section class="work-item">
                             <input class="toggle-item" id="work-item-0" type="checkbox" checked="checked" />
                             <label for="work-item-0"></label>
                             <header>
-                                <div class="position">Senior Manger of Application Development</div>
+                                <div class="position">Senior Manger </div>
                                 <div class="company">CVS Health</div>
                                 <div class="date">
                                     <span class="startDate">November 2013</span>
@@ -275,47 +237,95 @@ class Resume extends Component {
                                 </div>
                             </header>
                             <span class="website">
-                                <a href="https://www.caremark.com/" target="_blank" rel="noopener noreferrer">https://www.caremark.com/</a>
+                                <a href="https://www.cvshealth.com/" target="_blank" rel="noopener noreferrer">https://www.cvshealth.com/</a>
                             </span>
                             <div class="item" id="work-item">
                                 <div class="summary">
                                     <p></p>
-                                    <p>Lead development team of 20 – 40 developers to create .NET based web and windows
-                                        application
-                                        process for medical benefit transactions. Include but not limited to claim (EDI 837 and
-                                        proprietary),
-                                        eligibility 270/271 proprietary, authorization, NCPDP EPA, medical rebate etc.
-                                        Application was writing in C#, Angular, Python language, architect using WCF service and RESTful web
-                                        services.
-                                        In the process to migrate to micro service structure by adopting Azure technology.
-                                        Implemented Elastic based PA search system, significantly improved search capability and
-                                        performance.
-                                        Rebuild front end web application using Angular 5, using cypress.io automated UI
-                                        testing.
-                                        Architect application using Enterprise Architect tool. Building CI/CD pipeline in Azure
-                                        DevOps
-                                        I manage multiple projects in parallel with aggressive deadline using both Agile and
-                                        water fall process.
-                            </p>
+                                    <p>
+                                    </p>
                                     <p></p>
+                                </div>
+                                <div class="summary">
+                                    <p>Leadership and management</p>
                                 </div>
                                 <ul class="highlights">
                                     <li>
-                                        <p>DevOps: Azure DevOps build and release pipeline, Jenkins, Splunck, VeraCode, New
-                                    Relic and APM</p>
+                                        <p>Lead 5 scrum teams with over 30 engineers in 5 locations.</p>
                                     </li>
                                     <li>
-                                        <p>Micro Service: Web API, API gateway</p>
+                                        <p>Founder of non-profit organization to promote STEM to youth.</p>
+                                    </li>
+                                    <br />
+                                </ul>
+                                <div class="summary">
+                                    <p>Projects through work</p>
+                                </div>
+                                <ul class="highlights">
+                                    <li>
+                                        <p>Prior authorization: Medical and pharmacy benefit prior authorization system, include NCPDP ePA, HL7 FHIR Da Vinci based PA. - Tech simplification.</p>
                                     </li>
                                     <li>
-                                        <p>Elastcisearch: Cluster setup, PKI security, application real time searching,
-                                    dashboarding</p>
+                                        <p>Oncology Regimen based prior authorization: Implement industry leading edge regimen PA system, machine learning drive recommendation system for oncologist. - This is revenue generation project, clients cut regimen PA process time from two weeks to minutes. </p>
                                     </li>
                                     <li>
-                                        <p>Eligibility: expert on 270/271 and proprietary eligibility service and file load
-                                    process. </p>
+                                        <p>Medical claim/rebate: EDI 837 and proprietary claim, medical rebate system. - Revenue generation, helped clients save over 8 million dollars per year.</p>
+                                    </li>
+                                    <li>
+                                        <p>Azure cloud: Migrate medical claim editing system using docker technology to Azure. - Modernization</p>
+                                    </li>
+                                    <li>
+                                        <p>Eligibility: Implement EDI 270/271, file based and API driven eligibility system. Integrate with Azure AD through certificate assertion. - Security project.</p>
+                                    </li>
+                                    <li>
+                                        <p>Provider portal: File based and API driven provider portal system, implment SSO through SAML 2.0. - Security, tech debt reduction project.</p>
+                                    </li>
+                                    <li>
+                                        <p>DevOps: Azure DevOps build and release pipeline, Jenkins. Splunk, VeraCode, New Relic and APM. - Scalability, performance project.</p>
+                                    </li>
+                                    <li>
+                                        <p>Micro Service: established Web API, API gateway strategy. - Modernization project. </p>
+                                    </li>
+                                    <li>
+                                        <p>Elastcisearch/Kibana/Logstash: Cluster setup, PKI security, application real time searching and dashboarding. - Modernization project.</p>
+                                    </li>
+                                    <li>
+                                        <p>Using Kafka to implement multiple PA concurrent access project. - Modernization project.</p>
+                                    </li>
+                                    <br />
+                                </ul>
+                                <div class="summary">
+                                    <p>Projects outside work</p>
+                                </div>
+                                <ul class="highlights">
+                                    <li>
+                                        <p>Labotory test result management system: fully Azure native application leverage HL7 2.0 and HL7 3 FHIR to manage test result records for providers. </p>
+                                    </li>
+                                    <li>
+                                        <p>COVID-19 test kit order system: help organization to quick order self test kit for potential COVID patients. </p>
+                                    </li>
+                                    <li>
+                                        <p>Law enforcement and campus safe system: Azure based application help organization to enage law enforcement more efficiently.</p>
+                                    </li>
+                                    <li>
+                                        <p>TnT(Tool n' Tool): an open source project with friends as technical playground project. https://github.com/tnt-develop-team, Technology framework and tools including: Spring boot, Gradle, Neo4J, Docker, Spock, Travis CI, Ionic2, Jenkins, VSCode, IntelliJ, Azure VM, Bash, waffle.io</p>
+                                    </li>
+                                    <li>
+                                        <p>Contribute to over 30 open source reposistory on <a href="https://github.com/edenprairie" target="_blank" rel="noopener noreferrer">https://github.com/edenprairie</a> , Github Arctic Code Vault Contributor. </p>
+                                    </li>
+                                    <br />
+                                </ul>
+                                <div class="summary">
+                                    <p>Community Service</p>
+                                </div>
+                                <ul class="highlights">
+                                    <li>
+                                        <p>Teach 4 hours per week over 2 year on Natual Language Processing class to middle school and high school students. </p>
                                     </li>
 
+                                    <li>
+                                        <p>Community service: founder of local ethnic group and active volunteer.</p>
+                                    </li>
                                 </ul>
                             </div>
                         </section>
@@ -337,58 +347,20 @@ class Resume extends Component {
                                 <div class="summary">
                                     <p></p>
                                     <p>Work as a senior technical architect in development team, design and develop company’s
-                                        system
-                                        integration involving BizTalk server 2010, BizTalk 2006R2, SSIS and .NET windows service
-                                        and
-                                        web service. Created custom BizTalk pipeline and eConnect adapter to handle Microsoft
-                                        GreatPlains
-                                        transaction. Besides regular BizTalk mapper, using xslt to transform complicated
-                                        business requirement map.
-                                        Responsible to participate in creating and enhancing enterprise customer business
-                                        services,
-                                        work on problems involving the evaluation of specifications for complex business
-                                        requirements
-                                        and processes (new, enhancements, maintenance), and develops and prepares automated
-                                        solutions.
-                                        Verify program logic by preparing test data for trial runs, tests and debugs programs as
-                                        well
-                                        as to participate in overall systems testing and support of the implementation of the
-                                        application into production.
+                                    system integration involving BizTalk server 2010, BizTalk 2006R2, SSIS and .NET windows service and
+                                    web API. Created custom BizTalk pipeline and eConnect adapter to handle Microsoft
+                                    GreatPlains transaction. Besides regular BizTalk mapper, using xslt to transform complicated
+                                    business requirement map.
+                                    Responsible to participate in creating and enhancing enterprise customer business
+                                    services, work on problems involving the evaluation of specifications for complex business
+                                    requirements and processes (new, enhancements, maintenance), and develops and prepares automated
+                                    solutions.
+                                    Verify program logic by preparing test data for trial runs, tests and debugs programs as
+                                    well as to participate in overall systems testing and support of the implementation of the
+                                    application into production.
                             </p>
-                                    <p></p>
+                                    <p>Technologies including: BizTalk, SSIS, SSRS, Git, IntelliJ, Jenkin, VB.NET, C#, WebAPI2, JavaScript, jQuery, Spring Boot, Groovy, Gradle, Java, BeanIO, Stubby4j, Spock</p>
                                 </div>
-                                <ul class="highlights">
-                                    <li>
-                                        <p>BizTalk</p>
-                                    </li>
-                                    <li>
-                                        <p>SSIS, SSRS</p>
-                                    </li>
-                                    <li>
-                                        <p>VB.NET, C#</p>
-                                    </li>
-                                    <li>
-                                        <p>MSMQ</p>
-                                    </li>
-                                    <li>
-                                        <p>SQL Server</p>
-                                    </li>
-                                    <li>
-                                        <p>WCF, Web service programming</p>
-                                    </li>
-                                    <li>
-                                        <p>UML tools and database design</p>
-                                    </li>
-                                    <li>
-                                        <p>Integrated Microsoft .NET framework to a flexible Web based order entry system</p>
-                                    </li>
-                                    <li>
-                                        <p>Strong problem resolution, analysis, and customer service skills</p>
-                                    </li>
-                                    <li>
-                                        <p>Ability to manage multiple tasks with shifting priorities</p>
-                                    </li>
-                                </ul>
                             </div>
                         </section>
                         <section class="work-item">
@@ -409,29 +381,16 @@ class Resume extends Component {
                                 <div class="summary">
                                     <p></p>
                                     <p>Responsible for company Web and database application programming, quality assurance by
-                                        using Microsoft Site Server, Commerce Server, IIS, XML/XSLT, MSMQ, Web Service. Set up
-                                        Microsoft Source Safe version control and remote debug system. Implementing Microsoft
-                                        Passport and Wallet by using .NET technology. Set up and maintain SQL Server Log
-                                        shipping for MS SQL Server 2000. Use .NET technology to implement Microsoft Passport and
-                                        wallet system. Using object-oriented method to create and debug ASP ASP.NET, SQL Server
-                                        application and data management system. SQL Server 2000 development and administration.
-                            </p>
-                                    <p></p>
+                                    using Microsoft Site Server, Commerce Server, IIS, XML/XSLT, MSMQ, Web Service. Set up
+                                    Microsoft Source Safe version control and remote debug system. Implementing Microsoft
+                                    Passport and Wallet by using .NET technology. Set up and maintain SQL Server Log
+                                    shipping for MS SQL Server 2000. Use .NET technology to implement Microsoft Passport and
+                                    wallet system. Using object-oriented method to create and debug ASP ASP.NET, SQL Server
+                                    application and data management system. SQL Server 2000 development and administration.
+                                    </p>
+                                    <p>Technologies including: MS SQL Server, XML/XSLT, MSMQ, Web Service</p><p></p>
                                 </div>
-                                <ul class="highlights">
-                                    <li>
-                                        <p>MS SQL Server</p>
-                                    </li>
-                                    <li>
-                                        <p>XML/XSLT</p>
-                                    </li>
-                                    <li>
-                                        <p>MSMQ</p>
-                                    </li>
-                                    <li>
-                                        <p>Web Service</p>
-                                    </li>
-                                </ul>
+
                             </div>
                         </section>
                         <section class="work-item">
@@ -452,123 +411,32 @@ class Resume extends Component {
                                 <div class="summary">
                                     <p></p>
                                     <p>Responsible for web development and quality assurance of company's B2B and B2C projects
-                                        using ASP,
-                                        XML/XSLT, JavaScript, VBScript, Windows NT, IIS, and SQL Server 7.0. Integrated SQL and
-                                        stored procedure with Microsoft Site Server, Commerce Server built-in search component
-                                        to build
-                                        specific catalog and implement the whole web site with dynamic power search. Created and
-                                        tested
-                                        COM/DCOM to implement spider function. Developed full-text index searching development
-                                        and tested
-                                        Web site mastering including SSL set up, FTP files, site backup and updating. Also
-                                        worked closely
-                                        with front-end designers on issues in browser compatibility, email system
-                                        administration,
-                                        Linux/FreeBSD server administration, shell coding, and PHP coding. Design and
-                                        implemented complex
+                                    using ASP,
+                                    XML/XSLT, JavaScript, VBScript, Windows NT, IIS, and SQL Server 7.0. Integrated SQL and
+                                    stored procedure with Microsoft Site Server, Commerce Server built-in search component
+                                    to build
+                                    specific catalog and implement the whole web site with dynamic power search. Created and
+                                    tested
+                                    COM/DCOM to implement spider function. Developed full-text index searching development
+                                    and tested
+                                    Web site mastering including SSL set up, FTP files, site backup and updating. Also
+                                    worked closely
+                                    with front-end designers on issues in browser compatibility, email system
+                                    administration,
+                                    Linux/FreeBSD server administration, shell coding, and PHP coding. Design and
+                                    implemented complex
                                 business requirement and process, verify program logic by test data and trial runs.</p>
-                                    <p></p>
-                                </div>
-                                <ul class="highlights">
-                                    <li>
-                                        <p>Javascript</p>
-                                    </li>
-                                    <li>
-                                        <p>COM/DCOM</p>
-                                    </li>
-                                    <li>
-                                        <p>IIS</p>
-                                    </li>
-                                    <li>
-                                        <p>SSL</p>
-                                    </li>
-                                    <li>
-                                        <p>Linux/FreeBSD</p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </section>
-                        <section class="work-item">
-                            <input class="toggle-item" id="work-item-4" type="checkbox" checked="checked" />
-                            <label for="work-item-4"></label>
-                            <header>
-                                <div class="position">System and Networking Administrator, ASP+SQL developer </div>
-                                <div class="company">Amazon China</div>
-                                <div class="date">
-                                    <span class="startDate">May 2000</span>
-                                    <span class="endDate">- April 2001</span>
-                                </div>
-                            </header>
-                            <span class="website">
-                                <a href="http://amazon.cn" target="_blank" rel="noopener noreferrer">http://amazon.cn</a>
-                            </span>
-                            <div class="item" id="work-item">
-                                <div class="summary">
-                                    <p></p>
-                                    <p>Responsible for system administration of web server, mail server (Linux/FreeBSD), DNS
-                                        server, and SQL server, and Checkpoint FW1/VPN. OLAP security.
-                                        ASP programming, intranet administration and website design.
-
-                            </p>
-                                    <p></p>
+                                    <p>Technologies including: Javascript, COM/DCOM, IIS, SSL, Linux/FreeBSD</p>
                                 </div>
 
                             </div>
                         </section>
-                        <section class="work-item">
-                            <input class="toggle-item" id="work-item-5" type="checkbox" checked="checked" />
-                            <label for="work-item-5"></label>
-                            <header>
-                                <div class="position">Department Head, Development Department </div>
-                                <div class="company">Bada Group Limited</div>
-                                <div class="date">
-                                    <span class="startDate">October 1995 </span>
-                                    <span class="endDate">- December 1999</span>
-                                </div>
-                            </header>
 
-                            <div class="item" id="work-item">
-                                <div class="summary">
-                                    <p></p>
-                                    <p>Responsible for new project development, business analysis, intranet system
-                                        administration, and website developing.
-                                        Using HTML, ASP, JavaScript, Access and SQL Server database created data-driven website.
-                                        Manage intranet website design and configuration, and Lotus Notes application management
-                                and provide training for end users.</p>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </section>
-                        <section class="work-item">
-                            <input class="toggle-item" id="work-item-6" type="checkbox" checked="checked" />
-                            <label for="work-item-6"></label>
-                            <header>
-                                <div class="position">Application Engineer (Texas Instruments contractor) </div>
-                                <div class="company">Metal Technics Pte. Ltd.</div>
-                                <div class="date">
-                                    <span class="startDate">December 1993</span>
-                                    <span class="endDate">- October 1995</span>
-                                </div>
-                            </header>
-
-                            <div class="item" id="work-item">
-                                <div class="summary">
-                                    <p></p>
-                                    <p>Responsible for design, assembly and test of semiconductor automation instrument and
-                                        motion control systems,
-                                        PLC control system. Software programming by using assembly language and C/C++ in
-                                        Embedded system.
-                                        Create design documents such as ladder diagrams, sequence diagrams and to translate this
-                                logic into a programming language.</p>
-                                    <p></p>
-                                </div>
-                            </div>
-                        </section>
                     </section>
                 </section>
                 <section class="section">
                     <header>
-                        <h2 class="section-title">Education <span class="item-count">(1)</span></h2>
+                        <h2 class="section-title">Education <span class="item-count"></span></h2>
                     </header>
                     <section id="education">
                         <section class="education-item">
