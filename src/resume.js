@@ -263,10 +263,10 @@ class Resume extends Component {
                                 </div>
                                 <ul class="highlights">
                                     <li>
-                                        <p>Prior authorization: Medical and pharmacy benefit prior authorization system, include NCPDP ePA, HL7 FHIR Da Vinci based PA. - Tech simplification.</p>
+                                        <p>Prior authorization: Medical and pharmacy benefit prior authorization systems, including NCPDP ePA, HL7 FHIR Da Vinci based PA. - Tech simplification.</p>
                                     </li>
                                     <li>
-                                        <p>Oncology Regimen based prior authorization: Implement industry leading edge regimen PA system, machine learning drive recommendation system for oncologist. - This is revenue generation project, clients cut regimen PA process time from two weeks to minutes. </p>
+                                        <p>Oncology Regimen based prior authorization: Implement industry leading edge regimen PA system, machine learning drive recommendation system for oncologist. - This is a revenue generation project, clients cut regimen PA process time from two weeks to minutes. </p>
                                     </li>
                                     <li>
                                         <p>Medical claim/rebate: EDI 837 and proprietary claim, medical rebate system. - Revenue generation, helped clients save over 8 million dollars per year.</p>
@@ -278,7 +278,7 @@ class Resume extends Component {
                                         <p>Eligibility: Implement EDI 270/271, file based and API driven eligibility system. Integrate with Azure AD through certificate assertion. - Security project.</p>
                                     </li>
                                     <li>
-                                        <p>Provider portal: File based and API driven provider portal system, implment SSO through SAML 2.0. - Security, tech debt reduction project.</p>
+                                        <p>Provider portal: File based and API driven provider portal system, implement SSO through SAML 2.0. - Security, tech debt reduction project.</p>
                                     </li>
                                     <li>
                                         <p>DevOps: Azure DevOps build and release pipeline, Jenkins. Splunk, VeraCode, New Relic and APM. - Scalability, performance project.</p>
@@ -290,7 +290,7 @@ class Resume extends Component {
                                         <p>Elastcisearch/Kibana/Logstash: Cluster setup, PKI security, application real time searching and dashboarding. - Modernization project.</p>
                                     </li>
                                     <li>
-                                        <p>Using Kafka to implement multiple PA concurrent access project. - Modernization project.</p>
+                                        <p>Using Kafka to implement multiple PA concurrent access projects. - Modernization project.</p>
                                     </li>
                                     <br />
                                 </ul>
@@ -299,19 +299,19 @@ class Resume extends Component {
                                 </div>
                                 <ul class="highlights">
                                     <li>
-                                        <p>Labotory test result management system: fully Azure native application leverage HL7 2.0 and HL7 3 FHIR to manage test result records for providers. </p>
+                                        <p>laboratory test result management system: fully Azure native application leverages HL7 2.0 and HL7 3 FHIR to manage test result records for providers. </p>
                                     </li>
                                     <li>
                                         <p>COVID-19 test kit order system: help organization to quick order self test kit for potential COVID patients. </p>
                                     </li>
                                     <li>
-                                        <p>Law enforcement and campus safe system: Azure based application help organization to enage law enforcement more efficiently.</p>
+                                        <p>Law enforcement and campus safe system: Azure based applications help organizations to engage law enforcement more efficiently.</p>
                                     </li>
                                     <li>
-                                        <p>TnT(Tool n' Tool): an open source project with friends as technical playground project. https://github.com/tnt-develop-team, Technology framework and tools including: Spring boot, Gradle, Neo4J, Docker, Spock, Travis CI, Ionic2, Jenkins, VSCode, IntelliJ, Azure VM, Bash, waffle.io</p>
+                                        <p>TnT(Tool n' Tool): an open source project with friends as a technical playground project. https://github.com/tnt-develop-team, Technology framework and tools including: Spring boot, Gradle, Neo4J, Docker, Spock, Travis CI, Ionic2, Jenkins, VSCode, IntelliJ, Azure VM, Bash, waffle.io</p>
                                     </li>
                                     <li>
-                                        <p>Contribute to over 30 open source reposistory on <a href="https://github.com/edenprairie" target="_blank" rel="noopener noreferrer">https://github.com/edenprairie</a> , Github Arctic Code Vault Contributor. </p>
+                                        <p>Contributed to over 30 open source repositories on <a href="https://github.com/edenprairie" target="_blank" rel="noopener noreferrer">https://github.com/edenprairie</a> , Github Arctic Code Vault Contributor. </p>
                                     </li>
                                     <br />
                                 </ul>
@@ -320,7 +320,7 @@ class Resume extends Component {
                                 </div>
                                 <ul class="highlights">
                                     <li>
-                                        <p>Teach 4 hours per week over 2 year on Natual Language Processing class to middle school and high school students. </p>
+                                        <p>Teach 4 hours per week over 2 year on Natural Language Processing class to middle school and high school students. </p>
                                     </li>
 
                                     <li>
