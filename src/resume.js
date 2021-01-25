@@ -30,15 +30,6 @@ class Resume extends Component {
                             <span class="fa fa-external-link"></span>
                             <a href="http://junwang.us" target="_blank" rel="noopener noreferrer">http://junwang.us</a>
                         </div>
-                        <div class="email">
-                            <span class="fa fa-envelope-o"></span>
-                            <a href="mailto:junwang01@gmail.com"><span
-                                class="__cf_email__">junwang01@gmail.com</span></a>
-                        </div>
-                        <div class="phone">
-                            <span class="fa fa-mobile"></span>
-                            <a href="tel:(612) 308-9856">(612) 308-9856</a>
-                        </div>
                     </div>
                     <div id="profiles">
                         <div class="item">
