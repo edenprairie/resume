@@ -220,7 +220,7 @@ class Resume extends Component {
                             <input class="toggle-item" id="work-item-0" type="checkbox" checked="checked" />
                             <label for="work-item-0"></label>
                             <header>
-                                <div class="position">Senior Manger </div>
+                                <div class="position">Senior Manager </div>
                                 <div class="company">CVS Health</div>
                                 <div class="date">
                                     <span class="startDate">November 2013</span>
