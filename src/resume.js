@@ -36,7 +36,7 @@ class Resume extends Component {
                             <div class="username">
                                 <span class="fa fa-linkedin linkedin social"></span>
                                 <span class="url">
-                                    <a href="https://www.linkedin.com/in/jun-wang-8117193/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                                    <a href="https://www.linkedin.com/in/junwang03/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
                                 </span>
                             </div>
                         </div>
