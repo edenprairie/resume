@@ -230,7 +230,7 @@ class Resume extends Component {
                             <label for="work-item-0"></label>
                             <header>
                                 <div class="position">Software Development Manager </div>
-                                <div class="company">Amazon|aws</div>
+                                <div class="company">Amazon aws</div>
                                 <div class="date">
                                     <span class="startDate">March 2021</span>
                                     <span class="endDate">- Present</span>
