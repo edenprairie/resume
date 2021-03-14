@@ -18,7 +18,7 @@ class Resume extends Component {
                     <img class="picture" alt="Jun Wang" src={require('./junwang.jpg')}></img>
                     <div class="middle">
                         <h1 class="name">Jun Wang</h1>
-                        <h2 class="label">Sr. Application Development Manager</h2>
+                        <h2 class="label">Sofware Development Manager @Amazon aws</h2>
                     </div>
                     <span class="location">
                         <span class="city"> Eden Prairie,</span>
@@ -29,6 +29,15 @@ class Resume extends Component {
                         <div class="website">
                             <span class="fa fa-external-link"></span>
                             <a href="http://junwang.us" target="_blank" rel="noopener noreferrer">http://junwang.us</a>
+                        </div>
+                        <div class="email">
+                            <span class="fa fa-envelope-o"></span>
+                            <a href="mailto:junwang01@gmail.com"><span
+                                class="__cf_email__">junwang01@gmail.com</span></a>
+                        </div>
+                        <div class="phone">
+                            <span class="fa fa-mobile"></span>
+                            <a href="tel:(612) 308-9856">(612) 308-9856</a>
                         </div>
                     </div>
                     <div id="profiles">
@@ -220,11 +229,27 @@ class Resume extends Component {
                             <input class="toggle-item" id="work-item-0" type="checkbox" checked="checked" />
                             <label for="work-item-0"></label>
                             <header>
+                                <div class="position">Software Development Manager </div>
+                                <div class="company">Amazon|aws</div>
+                                <div class="date">
+                                    <span class="startDate">March 2021</span>
+                                    <span class="endDate">- Present</span>
+                                </div>
+                            </header>
+                            <span class="website">
+                                <a href="https://www.cvshealth.com/" target="_blank" rel="noopener noreferrer">https://aws.amazon.com/</a>
+                            </span>
+                            <br /><br /><br />
+                        </section>
+                        <section class="work-item">
+                            <input class="toggle-item" id="work-item-0" type="checkbox" checked="checked" />
+                            <label for="work-item-0"></label>
+                            <header>
                                 <div class="position">Senior Manager </div>
                                 <div class="company">CVS Health</div>
                                 <div class="date">
                                     <span class="startDate">November 2013</span>
-                                    <span class="endDate">- Present</span>
+                                    <span class="endDate">- March 2021</span>
                                 </div>
                             </header>
                             <span class="website">
