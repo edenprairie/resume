@@ -18,7 +18,7 @@ class Resume extends Component {
                     <img class="picture" alt="Jun Wang" src={require('./junwang.jpg')}></img>
                     <div class="middle">
                         <h1 class="name">Jun Wang</h1>
-                        <h2 class="label">Sofware Development Manager @Amazon aws</h2>
+                        <h2 class="label">Director of Software Engineering</h2>
                     </div>
                     <span class="location">
                         <span class="city"> Eden Prairie,</span>
@@ -35,10 +35,7 @@ class Resume extends Component {
                             <a href="mailto:junwang01@gmail.com"><span
                                 class="__cf_email__">junwang01@gmail.com</span></a>
                         </div>
-                        <div class="phone">
-                            <span class="fa fa-mobile"></span>
-                            <a href="tel:(612) 308-9856">(612) 308-9856</a>
-                        </div>
+
                     </div>
                     <div id="profiles">
                         <div class="item">
@@ -78,7 +75,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 Micro Service Web API
-                    </h3>
+                            </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
@@ -94,7 +91,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 Cloud Services
-                    </h3>
+                            </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
@@ -107,7 +104,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 SQL, No-SQL
-                    </h3>
+                            </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
@@ -124,7 +121,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 DevSecOps
-                    </h3>
+                            </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
@@ -142,7 +139,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 Web Technology
-                    </h3>
+                            </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
@@ -159,7 +156,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 Desgin Pattern
-                    </h3>
+                            </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
@@ -174,7 +171,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 Test Automation
-                    </h3>
+                            </h3>
                             <div class="level advanced">
                                 <em>Advanced</em>
                                 <div class="bar"></div>
@@ -191,7 +188,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 Javascript
-                    </h3>
+                            </h3>
                             <div class="level intermediate">
                                 <em>Intermediate</em>
                                 <div class="bar"></div>
@@ -206,7 +203,7 @@ class Resume extends Component {
                         <div class="item">
                             <h3 class="name">
                                 Mobile Development
-                    </h3>
+                            </h3>
                             <div class="level intermediate">
                                 <em>Intermediate</em>
                                 <div class="bar"></div>
@@ -225,21 +222,61 @@ class Resume extends Component {
                         <h2 class="section-title">Work Experience <span class="item-count"></span></h2>
                     </header>
                     <section id="work">
+                    <section class="work-item">
+                            <input class="toggle-item" id="work-item-0" type="checkbox" checked="checked" />
+                            <label for="work-item-0"></label>
+                            <header>
+                                <div class="position">Director of Software Engineering </div>
+                                <div class="company">Optum</div>
+                                <div class="date">
+                                    <span class="startDate">October 2022</span>
+                                    <span class="endDate">- Present</span>
+                                </div>
+                            </header>
+                            <span class="website">
+                                <a href="https://www.optum.com/en/" target="_blank" rel="noopener noreferrer">https://www.optum.com/</a>
+                            </span>
+                            <br />
+                            <div class="item" id="work-item">
+                                <div class="summary">
+                                    <p></p>
+                                    <p>As a leader in the behavioral health division supporting over 6 million members, 
+                                        I oversee the technical architecture team and manage the shared API layer that supports over 180 web applications, 
+                                        including 30 critical (priority 1 and 2) systems. 
+                                        I actively contribute to the CTO office to elevate engineering excellence and maturity across the organization. Additionally, 
+                                        I spearhead AI/ML initiatives, leveraging generative AI to address utilization management (UM) challenges and drive innovation in behavioral healthcare solutions.
+                                    </p>
+
+                                </div>
+                            </div>
+                        </section>
                         <section class="work-item">
                             <input class="toggle-item" id="work-item-0" type="checkbox" checked="checked" />
                             <label for="work-item-0"></label>
                             <header>
                                 <div class="position">Software Development Manager </div>
-                                <div class="company">Amazon aws</div>
+                                <div class="company">Amazon</div>
                                 <div class="date">
                                     <span class="startDate">March 2021</span>
-                                    <span class="endDate">- Present</span>
+                                    <span class="endDate">- October 2022</span>
                                 </div>
                             </header>
                             <span class="website">
-                                <a href="https://www.cvshealth.com/" target="_blank" rel="noopener noreferrer">https://aws.amazon.com/</a>
+                                <a href="https://buywithprime.amazon.com/" target="_blank" rel="noopener noreferrer">https://buywithprime.amazon.com/</a>
                             </span>
-                            <br /><br /><br />
+                            <br />
+                            <div class="item" id="work-item">
+                                <div class="summary">
+                                    <p></p>
+                                    <p>Lead a two pizza team to implement and drive major changes on Amazon buy with Prime product.
+                                        Work across multiple teams within Amazon buy with Prime to build and onboard new solutions that raise the bar on shopper and merchant product discovery features for customers.
+                                        Grow development team to tackle complex problems in massively scaled retail solutions and be prepared to scale teams for future challenges.
+                                        Own critical, highly scalable systems, and foster innovation, attract and grow the engineering talent needed for those kinds of challenges.
+                                        I am skilled at managing complex projects that require interacting with multiple stakeholders while staying close to the detail.
+                                    </p>
+
+                                </div>
+                            </div>
                         </section>
                         <section class="work-item">
                             <input class="toggle-item" id="work-item-0" type="checkbox" checked="checked" />
@@ -363,18 +400,18 @@ class Resume extends Component {
                                 <div class="summary">
                                     <p></p>
                                     <p>Work as a senior technical architect in development team, design and develop company’s
-                                    system integration involving BizTalk server 2010, BizTalk 2006R2, SSIS and .NET windows service and
-                                    web API. Created custom BizTalk pipeline and eConnect adapter to handle Microsoft
-                                    GreatPlains transaction. Besides regular BizTalk mapper, using xslt to transform complicated
-                                    business requirement map.
-                                    Responsible to participate in creating and enhancing enterprise customer business
-                                    services, work on problems involving the evaluation of specifications for complex business
-                                    requirements and processes (new, enhancements, maintenance), and develops and prepares automated
-                                    solutions.
-                                    Verify program logic by preparing test data for trial runs, tests and debugs programs as
-                                    well as to participate in overall systems testing and support of the implementation of the
-                                    application into production.
-                            </p>
+                                        system integration involving BizTalk server 2010, BizTalk 2006R2, SSIS and .NET windows service and
+                                        web API. Created custom BizTalk pipeline and eConnect adapter to handle Microsoft
+                                        GreatPlains transaction. Besides regular BizTalk mapper, using xslt to transform complicated
+                                        business requirement map.
+                                        Responsible to participate in creating and enhancing enterprise customer business
+                                        services, work on problems involving the evaluation of specifications for complex business
+                                        requirements and processes (new, enhancements, maintenance), and develops and prepares automated
+                                        solutions.
+                                        Verify program logic by preparing test data for trial runs, tests and debugs programs as
+                                        well as to participate in overall systems testing and support of the implementation of the
+                                        application into production.
+                                    </p>
                                     <p>Technologies including: BizTalk, SSIS, SSRS, Git, IntelliJ, Jenkin, VB.NET, C#, WebAPI2, JavaScript, jQuery, Spring Boot, Groovy, Gradle, Java, BeanIO, Stubby4j, Spock</p>
                                 </div>
                             </div>
@@ -397,12 +434,12 @@ class Resume extends Component {
                                 <div class="summary">
                                     <p></p>
                                     <p>Responsible for company Web and database application programming, quality assurance by
-                                    using Microsoft Site Server, Commerce Server, IIS, XML/XSLT, MSMQ, Web Service. Set up
-                                    Microsoft Source Safe version control and remote debug system. Implementing Microsoft
-                                    Passport and Wallet by using .NET technology. Set up and maintain SQL Server Log
-                                    shipping for MS SQL Server 2000. Use .NET technology to implement Microsoft Passport and
-                                    wallet system. Using object-oriented method to create and debug ASP ASP.NET, SQL Server
-                                    application and data management system. SQL Server 2000 development and administration.
+                                        using Microsoft Site Server, Commerce Server, IIS, XML/XSLT, MSMQ, Web Service. Set up
+                                        Microsoft Source Safe version control and remote debug system. Implementing Microsoft
+                                        Passport and Wallet by using .NET technology. Set up and maintain SQL Server Log
+                                        shipping for MS SQL Server 2000. Use .NET technology to implement Microsoft Passport and
+                                        wallet system. Using object-oriented method to create and debug ASP ASP.NET, SQL Server
+                                        application and data management system. SQL Server 2000 development and administration.
                                     </p>
                                     <p>Technologies including: MS SQL Server, XML/XSLT, MSMQ, Web Service</p><p></p>
                                 </div>
@@ -427,21 +464,21 @@ class Resume extends Component {
                                 <div class="summary">
                                     <p></p>
                                     <p>Responsible for web development and quality assurance of company's B2B and B2C projects
-                                    using ASP,
-                                    XML/XSLT, JavaScript, VBScript, Windows NT, IIS, and SQL Server 7.0. Integrated SQL and
-                                    stored procedure with Microsoft Site Server, Commerce Server built-in search component
-                                    to build
-                                    specific catalog and implement the whole web site with dynamic power search. Created and
-                                    tested
-                                    COM/DCOM to implement spider function. Developed full-text index searching development
-                                    and tested
-                                    Web site mastering including SSL set up, FTP files, site backup and updating. Also
-                                    worked closely
-                                    with front-end designers on issues in browser compatibility, email system
-                                    administration,
-                                    Linux/FreeBSD server administration, shell coding, and PHP coding. Design and
-                                    implemented complex
-                                business requirement and process, verify program logic by test data and trial runs.</p>
+                                        using ASP,
+                                        XML/XSLT, JavaScript, VBScript, Windows NT, IIS, and SQL Server 7.0. Integrated SQL and
+                                        stored procedure with Microsoft Site Server, Commerce Server built-in search component
+                                        to build
+                                        specific catalog and implement the whole web site with dynamic power search. Created and
+                                        tested
+                                        COM/DCOM to implement spider function. Developed full-text index searching development
+                                        and tested
+                                        Web site mastering including SSL set up, FTP files, site backup and updating. Also
+                                        worked closely
+                                        with front-end designers on issues in browser compatibility, email system
+                                        administration,
+                                        Linux/FreeBSD server administration, shell coding, and PHP coding. Design and
+                                        implemented complex
+                                        business requirement and process, verify program logic by test data and trial runs.</p>
                                     <p>Technologies including: Javascript, COM/DCOM, IIS, SSL, Linux/FreeBSD</p>
                                 </div>
 
@@ -460,13 +497,13 @@ class Resume extends Component {
                                 <div class="header-left">
                                     <div class="studyType">
                                         Master's Degree in
-                            </div>
+                                    </div>
                                     <div class="area">
-                                        Software Engineering(Ongoing)
-                            </div>
+                                        &nbsp;Software Engineering(Ongoing)&nbsp;
+                                    </div>
                                     <div class="institution">
                                         University of St. Thomas
-                            </div>
+                                    </div>
                                 </div>
 
                             </header>
@@ -481,13 +518,13 @@ class Resume extends Component {
                                 <div class="header-left">
                                     <div class="studyType">
                                         Bachelor's Degree in
-                            </div>
+                                    </div>
                                     <div class="area">
-                                        Electrical and Electronics
-                            </div>
+                                        &nbsp;Electrical and Electronics&nbsp;
+                                    </div>
                                     <div class="institution">
                                         North China Electric Power University
-                            </div>
+                                    </div>
                                 </div>
 
                             </header>
@@ -523,7 +560,7 @@ class Resume extends Component {
                         <div class="item">
                             <blockquote class="reference">
                                 REFERENCE AVAILABLE UPON REQUEST
-                    </blockquote>
+                            </blockquote>
 
                         </div>
 
