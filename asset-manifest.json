@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.f9af6252.chunk.css",
-    "main.js": "/static/js/main.c028e265.chunk.js",
-    "main.js.map": "/static/js/main.c028e265.chunk.js.map",
+    "main.js": "/static/js/main.9566ebe9.chunk.js",
+    "main.js.map": "/static/js/main.9566ebe9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ed60abf2.js",
     "runtime-main.js.map": "/static/js/runtime-main.ed60abf2.js.map",
     "static/js/2.91686b25.chunk.js": "/static/js/2.91686b25.chunk.js",
     "static/js/2.91686b25.chunk.js.map": "/static/js/2.91686b25.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e3d522c0b1da9c6a315d196759af3562.js": "/precache-manifest.e3d522c0b1da9c6a315d196759af3562.js",
+    "precache-manifest.444d1213040ae47428eb53bfb60069b0.js": "/precache-manifest.444d1213040ae47428eb53bfb60069b0.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f9af6252.chunk.css.map": "/static/css/main.f9af6252.chunk.css.map",
     "static/js/2.91686b25.chunk.js.LICENSE.txt": "/static/js/2.91686b25.chunk.js.LICENSE.txt",
-    "static/media/JunWangResume.pdf": "/static/media/JunWangResume.a7847020.pdf",
+    "static/media/JunWangResume.pdf": "/static/media/JunWangResume.d6660fce.pdf",
     "static/media/junwang.jpg": "/static/media/junwang.8597c8aa.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ed60abf2.js",
     "static/js/2.91686b25.chunk.js",
     "static/css/main.f9af6252.chunk.css",
-    "static/js/main.c028e265.chunk.js"
+    "static/js/main.9566ebe9.chunk.js"
   ]
 }
