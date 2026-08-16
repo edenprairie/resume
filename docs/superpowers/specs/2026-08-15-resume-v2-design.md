@@ -93,3 +93,6 @@ Sample rewrite direction for the Optum entry (from existing facts):
 ## 9. Open Question
 
 - Exact subdomain name: propose `resume2.junwang.us` (or user's preference) — needs DNS CNAME record pointed at GitHub Pages
+
+**Decision (approved):** subdomain is **`cv.junwang.us`**.
+
