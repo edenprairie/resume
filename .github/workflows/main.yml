@@ -30,11 +30,11 @@ jobs:
         run: npm ci
 
       - name: Build resume site
-        run: CI=false NODE_OPTIONS=--openssl-legacy-provider npm run build
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          publish_dir: ./dist
           cname: resume.junwang.us

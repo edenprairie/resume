@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import './resume.css';
+import junwangImg from './junwang.jpg';
+import resumePdf from './JunWangResume.pdf';
 
 class Resume extends Component {
     constructor() {
@@ -13,7 +15,7 @@ class Resume extends Component {
         return (
             <div id="resume">
                 <header className="clear" id="header">
-                    <img className="picture" alt="Jun Wang" src={require('./junwang.jpg')}></img>
+                    <img className="picture" alt="Jun Wang" src={junwangImg}></img>
                     <div className="middle">
                         <h1 className="name">Jun Wang</h1>
                         <h2 className="label">Director of Software Engineering</h2>
@@ -51,7 +53,7 @@ class Resume extends Component {
                         <div className="item">
                             <div className="username">
                                 <span className="fa fa-file-pdf-o"></span>
-                                <span className="url"><a href={require('./JunWangResume.pdf')}>Download</a></span>
+                                <span className="url"><a href={resumePdf}>Download</a></span>
                             </div>
                         </div>
                     </div>
